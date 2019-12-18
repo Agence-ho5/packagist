@@ -1,0 +1,268 @@
+{
+    "packages": {
+        "agence-ho5/carbon-fields-urlpicker": {
+            "1.0": {
+                "name": "agence-ho5/carbon-fields-urlpicker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Agence-ho5/carbon-fields-urlpicker.git",
+                    "reference": "d6b0b15af83cef19762613441717d00e7034b838"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Agence-ho5/carbon-fields-urlpicker/zipball/d6b0b15af83cef19762613441717d00e7034b838",
+                    "reference": "d6b0b15af83cef19762613441717d00e7034b838",
+                    "shasum": ""
+                },
+                "time": "2018-08-15T15:38:22+00:00",
+                "type": "library",
+                "autoload": {
+                    "files": [
+                        "field.php"
+                    ],
+                    "psr-4": {
+                        "Carbon_Field_UrlPicker\\": "core/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Ionuț Staicu",
+                        "email": "github@iamntz.com"
+                    }
+                ],
+                "description": "Carbon Fields extension, that adds a URL picker field type.",
+                "homepage": "https://github.com/iamntz/carbon-fields-urlpicker",
+                "keywords": [
+                    "carbon-field",
+                    "carbon-fields-urlpicker",
+                    "wordpress"
+                ],
+                "support": {
+                    "source": "https://github.com/Agence-ho5/carbon-fields-urlpicker/tree/1.0"
+                }
+            },
+            "1.1": {
+                "name": "agence-ho5/carbon-fields-urlpicker",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Agence-ho5/carbon-fields-urlpicker.git",
+                    "reference": "bc3d2ed5fb858a9ad64fddfea9d5ef8d0358b287"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Agence-ho5/carbon-fields-urlpicker/zipball/bc3d2ed5fb858a9ad64fddfea9d5ef8d0358b287",
+                    "reference": "bc3d2ed5fb858a9ad64fddfea9d5ef8d0358b287",
+                    "shasum": ""
+                },
+                "time": "2019-12-18T03:33:22+00:00",
+                "type": "wordpress-muplugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Ionuț Staicu",
+                        "email": "github@iamntz.com"
+                    }
+                ],
+                "description": "Carbon Fields extension, that adds a URL picker field type.",
+                "homepage": "https://github.com/iamntz/carbon-fields-urlpicker",
+                "keywords": [
+                    "carbon-field",
+                    "carbon-fields-urlpicker",
+                    "wordpress"
+                ],
+                "support": {
+                    "source": "https://github.com/Agence-ho5/carbon-fields-urlpicker/tree/1.1"
+                }
+            },
+            "v3.x-dev": {
+                "name": "agence-ho5/carbon-fields-urlpicker",
+                "version": "v3.x-dev",
+                "version_normalized": "3.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Agence-ho5/carbon-fields-urlpicker.git",
+                    "reference": "c8114eddd182ccd16e8cf031c7d317ee481c7d00"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Agence-ho5/carbon-fields-urlpicker/zipball/c8114eddd182ccd16e8cf031c7d317ee481c7d00",
+                    "reference": "c8114eddd182ccd16e8cf031c7d317ee481c7d00",
+                    "shasum": ""
+                },
+                "time": "2019-10-11T10:00:47+00:00",
+                "type": "library",
+                "autoload": {
+                    "files": [
+                        "field.php"
+                    ],
+                    "psr-4": {
+                        "Carbon_Field_UrlPicker\\": "core/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Ionuț Staicu",
+                        "email": "github@iamntz.com"
+                    }
+                ],
+                "description": "Carbon Fields extension, that adds a URL picker field type.",
+                "homepage": "https://github.com/iamntz/carbon-fields-urlpicker",
+                "keywords": [
+                    "carbon-field",
+                    "carbon-fields-urlpicker",
+                    "wordpress"
+                ],
+                "support": {
+                    "source": "https://github.com/Agence-ho5/carbon-fields-urlpicker/tree/v3"
+                }
+            },
+            "dev-master": {
+                "name": "agence-ho5/carbon-fields-urlpicker",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Agence-ho5/carbon-fields-urlpicker.git",
+                    "reference": "bc3d2ed5fb858a9ad64fddfea9d5ef8d0358b287"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Agence-ho5/carbon-fields-urlpicker/zipball/bc3d2ed5fb858a9ad64fddfea9d5ef8d0358b287",
+                    "reference": "bc3d2ed5fb858a9ad64fddfea9d5ef8d0358b287",
+                    "shasum": ""
+                },
+                "time": "2019-12-18T03:33:22+00:00",
+                "type": "wordpress-muplugin",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Ionuț Staicu",
+                        "email": "github@iamntz.com"
+                    }
+                ],
+                "description": "Carbon Fields extension, that adds a URL picker field type.",
+                "homepage": "https://github.com/iamntz/carbon-fields-urlpicker",
+                "keywords": [
+                    "carbon-field",
+                    "carbon-fields-urlpicker",
+                    "wordpress"
+                ],
+                "support": {
+                    "source": "https://github.com/Agence-ho5/carbon-fields-urlpicker/tree/1.1"
+                }
+            }
+        },
+        "agence-ho5/wp-classes": {
+            "0.0.1": {
+                "name": "agence-ho5/wp-classes",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Agence-ho5/wp-classes.git",
+                    "reference": "d1b8f2cf480fe597cf0a323131de96a719e98909"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Agence-ho5/wp-classes/zipball/d1b8f2cf480fe597cf0a323131de96a719e98909",
+                    "reference": "d1b8f2cf480fe597cf0a323131de96a719e98909",
+                    "shasum": ""
+                },
+                "time": "2019-12-17T01:08:51+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabien LEGE",
+                        "email": "fabien.lege@ho5group.com"
+                    }
+                ],
+                "description": "Helper Classes for Wordpress",
+                "support": {
+                    "source": "https://github.com/Agence-ho5/wp-classes/tree/0.0.1",
+                    "issues": "https://github.com/Agence-ho5/wp-classes/issues"
+                }
+            },
+            "0.0.2": {
+                "name": "agence-ho5/wp-classes",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Agence-ho5/wp-classes.git",
+                    "reference": "59968c7eec74f42198b8d9dcf6fb03e713a2c9d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Agence-ho5/wp-classes/zipball/59968c7eec74f42198b8d9dcf6fb03e713a2c9d0",
+                    "reference": "59968c7eec74f42198b8d9dcf6fb03e713a2c9d0",
+                    "shasum": ""
+                },
+                "time": "2019-12-18T02:40:55+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabien LEGE",
+                        "email": "fabien.lege@ho5group.com"
+                    }
+                ],
+                "description": "Helper Classes for Wordpress",
+                "support": {
+                    "source": "https://github.com/Agence-ho5/wp-classes/tree/0.0.2",
+                    "issues": "https://github.com/Agence-ho5/wp-classes/issues"
+                }
+            },
+            "dev-master": {
+                "name": "agence-ho5/wp-classes",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Agence-ho5/wp-classes.git",
+                    "reference": "59968c7eec74f42198b8d9dcf6fb03e713a2c9d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Agence-ho5/wp-classes/zipball/59968c7eec74f42198b8d9dcf6fb03e713a2c9d0",
+                    "reference": "59968c7eec74f42198b8d9dcf6fb03e713a2c9d0",
+                    "shasum": ""
+                },
+                "time": "2019-12-18T02:40:55+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabien LEGE",
+                        "email": "fabien.lege@ho5group.com"
+                    }
+                ],
+                "description": "Helper Classes for Wordpress",
+                "support": {
+                    "source": "https://github.com/Agence-ho5/wp-classes/tree/0.0.2",
+                    "issues": "https://github.com/Agence-ho5/wp-classes/issues"
+                }
+            }
+        }
+    }
+}

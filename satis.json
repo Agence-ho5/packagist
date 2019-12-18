@@ -2,7 +2,8 @@
   "name": "Agence ho5",
   "homepage": "https://packages.nsi-dev.com",
   "repositories": [
-    { "type": "vcs", "url": "https://github.com/Agence-ho5/wp-classes" }
+    { "type": "vcs", "url": "https://github.com/Agence-ho5/wp-classes" },
+    { "type": "vcs", "url": "https://github.com/Agence-ho5/carbon-fields-urlpicker" }
   ],
   "require-all": true
 }
